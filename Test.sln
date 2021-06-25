@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5AE8BAE0-1F6D-425D-BEF3-A1FCDEB8BAAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{DF30CC59-BD0F-4ACF-8998-99C35FDADB1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raytracer", "..\..\Sample\_NET_Core_parallel_animated_ray_traced_bouncing_ball\Raytracer.csproj", "{560097ED-4CB0-4219-AF8E-2963123D972F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5AE8BAE0-1F6D-425D-BEF3-A1FCDEB8BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AE8BAE0-1F6D-425D-BEF3-A1FCDEB8BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AE8BAE0-1F6D-425D-BEF3-A1FCDEB8BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF30CC59-BD0F-4ACF-8998-99C35FDADB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF30CC59-BD0F-4ACF-8998-99C35FDADB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF30CC59-BD0F-4ACF-8998-99C35FDADB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF30CC59-BD0F-4ACF-8998-99C35FDADB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560097ED-4CB0-4219-AF8E-2963123D972F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560097ED-4CB0-4219-AF8E-2963123D972F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560097ED-4CB0-4219-AF8E-2963123D972F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560097ED-4CB0-4219-AF8E-2963123D972F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
